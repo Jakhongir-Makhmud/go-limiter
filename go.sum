@@ -1,0 +1,8 @@
+github.com/OneOfOne/xxhash v1.2.7 h1:fzrmmkskv067ZQbd9wERNGuxckWw67dyzoMG62p7LMo=
+github.com/OneOfOne/xxhash v1.2.7/go.mod h1:eZbhyaAYD41SGSSsnmcpxVoRiQ/MPUTjUdIIOT9Um7Q=
+github.com/cornelk/hashmap v1.0.1/go.mod h1:8wbysTUDnwJGrPZ1Iwsou3m+An6sldFrJItjRhfegCw=
+github.com/dchest/siphash v1.1.0/go.mod h1:q+IRvb2gOSrUnYoPqHiyHXS0FOBBOdl6tONBlVnOnt4=
+github.com/xaionaro-go/atomicmap v0.0.0-20210620215405-96a7f1f95a70 h1:z/+V+ai0R41aym9Hz6flJ90LuuuaHv2EfI7pNaYSPuw=
+github.com/xaionaro-go/atomicmap v0.0.0-20210620215405-96a7f1f95a70/go.mod h1:WgfDl7x9++CVnKSu63ThFhBF3nvgj60Ft1nCgrOSgWM=
+github.com/xaionaro-go/spinlock v0.0.0-20190309154744-55278e21e817 h1:0ikx4JlTx9uNiHGGC4o0k93GhcWOtONYdhk2H8RUnZU=
+github.com/xaionaro-go/spinlock v0.0.0-20190309154744-55278e21e817/go.mod h1:Nb/15eS0BMty6TMuWgRQM8WCDIUlyPZagcpchHT6c9Y=
